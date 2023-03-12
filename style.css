@@ -1,0 +1,225 @@
+body {
+    background-color: #1B1C1F;
+}
+
+.logo {
+    position: absolute;
+top: 32px;
+rotate: 360deg;
+}
+
+.nav-link {
+}
+.dota {
+    position: absolute;
+width: 66px;
+height: 26px;
+left: 72px;
+top: 10px;
+color: #fff;
+
+}
+.fortnite {
+    position: absolute;
+width: 79px;
+height: 26px;
+left: 168px;
+top: 10px;
+color: #fff;
+
+}
+.gta {
+    position: absolute;
+width: 64px;
+height: 26px;
+left: 279px;
+top: 10px;
+color: #fff;
+
+}
+
+.menu {
+    z-index: -1;
+    position: absolute;
+width: 416px;
+height: 55px;
+left: 512px;
+top: 48px;
+
+background: #323335;
+border-radius: 56px;
+}
+
+.h1 {
+    position: absolute;
+    width: 746px;
+    height: 180px;
+
+    top: 282px;
+    
+    /* Headings/hero-0 (regular) */
+    
+    font-family: 'GB Font';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 76px;
+    line-height: 90px;
+    /* or 118% */
+    
+    
+    /* Elements/[day]/Text_icons_on_substrates */
+    
+    color: #FFFFFF;
+}
+.info {
+    position: absolute;
+    width: 526px;
+    height: 96px;
+    top: 494px;
+    
+    /* Body/body-1 */
+    
+    font-family: 'GB Font';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    
+    
+    /* Elements/[day]/Text_icons_on_substrates */
+    
+    color: #FFFFFF;
+}
+.know_more {
+    width: 144px;
+    height: 26px;
+
+    /* Headings/heading-3 */
+
+    font-family: 'GB Font';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height, or 130% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Elements/[day]/Text_icons_on_substrates */
+
+    color: #FFFFFF;
+}
+.button_know_more {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 19px 32px;
+
+position: absolute;
+width: 208px;
+height: 64px;
+top: 638px;
+
+/* Elements/[day]/Elements */
+
+background: #8D46F6;
+border-radius: 12px;
+}
+
+
+.img1 {
+    position: absolute;
+width: 306px;
+height: 330px;
+left: 1200px;
+top: 174px;
+}
+.img2 {
+    position: absolute;
+    width: 196px;
+    height: 330px;
+    left: 1540px;
+    top: 174px;
+    
+}
+.img3 {
+    position: absolute;
+width: 521px;
+height: 330px;
+left: 1200px;
+top: 528px;
+}
+
+.telegram {
+    position: absolute;
+width: 92px;
+height: 26px;
+left: 800px;
+top: 966px;
+
+font-family: 'GB Font';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+/* Elements/[day]/Text_icons_on_substrates */
+
+color: #FFFFFF;
+}
+.VK {
+    position: absolute;
+width: 102px;
+height: 26px;
+left: 970px;
+top: 966px;
+
+font-family: 'GB Font';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+/* Elements/[day]/Text_icons_on_substrates */
+
+color: #FFFFFF;
+}
+.instagram {
+    position: absolute;
+width: 119px;
+height: 26px;
+left: 1140px;
+top: 966px;
+
+font-family: 'GB Font';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+/* Elements/[day]/Text_icons_on_substrates */
+
+color: #FFFFFF;
+}
